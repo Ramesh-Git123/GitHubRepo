@@ -13,6 +13,7 @@ public class GitClass {
 	void logout()
 	{
 		System.out.println("Logoout application");
+		System.out.println("Update code from local");
 	}
 	
 	@Test(priority=2)
