@@ -6,6 +6,7 @@ public class GitClass {
 	void login()
 	{
 		System.out.println("Login application");
+		System.out.println("After changed in project");
 	}
 	
 	@Test(priority=3)
